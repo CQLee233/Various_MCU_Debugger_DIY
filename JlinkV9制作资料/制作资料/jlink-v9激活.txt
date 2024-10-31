@@ -1,13 +1,13 @@
-ÔÚJLINKµÄcommandÏÂÒÀ´ÎÔËĞĞÈçÏÂÃüÁî  
+åœ¨JLINKçš„commandä¸‹ä¾æ¬¡è¿è¡Œå¦‚ä¸‹å‘½ä»¤  
 
-Exec SetSN=XXXXXXXX      ;Ìí¼ÓSN 
-Exec AddFeature GDB      ;Ìí¼ÓGDB 
-Exec AddFeature RDI      ;Ìí¼ÓRDI 
-Exec AddFeature FlashBP  ;Ìí¼ÓFlashBP  
-Exec AddFeature FlashDL  ;Ìí¼ÓFlashDL 
-Exec AddFeature JFlash   ;Ìí¼ÓJFlash 
-Exec AddFeature RDDI     ;Ìí¼ÓRDDI
+Exec SetSN=69404355      ;æ·»åŠ SN 
+Exec AddFeature GDB      ;æ·»åŠ GDB 
+Exec AddFeature RDI      ;æ·»åŠ RDI 
+Exec AddFeature FlashBP  ;æ·»åŠ FlashBP  
+Exec AddFeature FlashDL  ;æ·»åŠ FlashDL 
+Exec AddFeature JFlash   ;æ·»åŠ JFlash 
+Exec AddFeature RDDI     ;æ·»åŠ RDDI
 
 
 
-×¨ÊôJLink-V9¹¦ÄÜÌí¼ÓÃüÁî£¡
+ä¸“å±JLink-V9åŠŸèƒ½æ·»åŠ å‘½ä»¤ï¼
